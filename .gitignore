@@ -1,0 +1,30 @@
+# .gitignore
+# Virtual environment
+myprojectenv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.py~
+
+# Database
+*.sqlite3
+
+# Media
+/media
+
+# Static files
+/staticfiles
+
+# IDE files
+.idea/
+.vscode/
+
+# Docker files
+*.db
