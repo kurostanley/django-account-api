@@ -69,7 +69,6 @@ This is a Django-based API project for user registration and authentication, Doc
 
 - **Register:** `POST /api/accounts/register/`
 - **Login:** `POST /api/accounts/login/`
-- **User Details:** `GET /api/accounts/user/` (Requires authentication)
 
 ### Example Requests
 
